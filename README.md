@@ -2,6 +2,7 @@
 ## My name is Felipe Crovesy 🐱‍💻 
 
 <div>
+  <img align="left" alt="KoushiroIzumi-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/93009962593c8a108c9269b8fd339f6f/tumblr_ocah6baKRC1sktgg3o2_r1_540.gif">
   <a href="https://github.com/felipecrovesy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecrovesy&show_icons=true&theme=hacker&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecrovesy&layout=compact&langs_count=7&theme=hacker"/>
@@ -27,6 +28,7 @@
   <!-- Image editors --> 
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 </div>
 
 ##
