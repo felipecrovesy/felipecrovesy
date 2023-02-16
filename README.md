@@ -1,14 +1,13 @@
-### Hello visitor! Welcome to my Github profile 👋
+# Hello visitor! Welcome to my Github profile 👋
 ## My name is Felipe Crovesy 🐱‍💻 
 
 <div>
   <a href="https://github.com/felipecrovesy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecrovesy&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecrovesy&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecrovesy&show_icons=true&theme=hacker&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecrovesy&layout=compact&langs_count=7&theme=hacker"/>
 </div>
   
 <div style="display: inline_block"><br>
-
   <!-- Boards and Documentations -->
   <img align="center" alt="Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
 
@@ -28,6 +27,13 @@
   <!-- Image editors --> 
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+##
+
+<div>
+<a href="https://www.linkedin.com/in/felipe-crovesy-6a299283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/felipecrovesy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--
